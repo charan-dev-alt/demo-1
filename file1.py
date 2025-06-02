@@ -15,4 +15,5 @@ def division(a,b):
 
 call4=division(4,2)
 print(call4)
+
 print(call2)
