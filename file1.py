@@ -18,13 +18,14 @@ def division(a,b):
 
 call4=division(4,2)
 print(call4)
-print(call2)
 
 print(call2)
 
+print(call2)
 
-def multiplication(a,b):
-    return a*b
-call3=multiplication(2,3)
+
+def multiplication(a,b,c):
+    return a*b*c
+call3=multiplication(2,3,4)
 print(call3)
 
