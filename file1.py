@@ -2,6 +2,8 @@ def addition(a,b,c):
     return a+b+c
 
 call1=addition(1,2,3)
+
+
 print(call1)
 
 def subtract(a,b):
@@ -9,3 +11,9 @@ def subtract(a,b):
 
 call2=subtract(3,2)
 print(call2)
+
+
+def mutliplication(a,b):
+    return a*b
+call3=multiplication(2,3)
+print(call3)
